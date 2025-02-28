@@ -4,7 +4,7 @@ This repository contains a number of projects that demonstrate skills in **DevOp
 
 ---
 
-## 🚀 Proyects
+## 🚀 Projects
 
 ### 1️⃣ Kubernetes Security Lab with eBPF and Falco
 **Technologies:** Kubernetes, eBPF, Falco, Trivy, OPA/Gatekeeper  
