@@ -10,7 +10,7 @@ This repository contains a number of projects that demonstrate skills in **DevOp
 **Technologies:** Kubernetes, eBPF, Falco, Trivy, OPA/Gatekeeper  
 **Description:** Implementation of a Kubernetes cluster with Falco and eBPF to monitor suspicious events in real time. Custom rules are included to detect attacks such as **privilege escalation** and **container escapes**.
 
-📂 [See Proyect](./kubernetes-security-lab)
+📂 [See Project](./kubernetes-security-lab)
 
 ---
 
